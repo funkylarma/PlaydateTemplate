@@ -1,0 +1,7 @@
+name=Template
+author=Adam Chamberlin
+description=A basic game template.
+bundleID=info.adamchamberlin.TemplateGame
+version=1.0
+buildNumber=100
+imagePath=SystemAssets
